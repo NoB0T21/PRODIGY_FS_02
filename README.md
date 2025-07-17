@@ -55,7 +55,7 @@ Preview available before uploading.
      MONGO_URL=your_mongodb_url/employee_management
      SUPABASE_KEY=your_supabase_key
      SUPABASE_URL=your_supabase_url
-     BUCKET=toki
+     BUCKET=your_Bucket_name
      CLIENT_URL=http://localhost:3000
      ```
    - **Do NOT** share this file publicly.
